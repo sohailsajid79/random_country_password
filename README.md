@@ -1,6 +1,6 @@
 # Random Country Password Generator
 
-##The purpose of this project was to practice JavaScript syntax by building a message generator program. Every time the user runs the program, they should get a new, randomised password as the output. To make the program truly random, the password that it outputs is made up of 5 different pieces of data. 
+## The purpose of this project was to practice JavaScript syntax by building a message generator program. Every time the user runs the program, they should get a new, randomised password as the output. To make the program truly random, the password that it outputs is made up of 5 different pieces of data. 
 
 The Features Include:
 
