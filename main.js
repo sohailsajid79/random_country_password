@@ -36,3 +36,5 @@ const genPassword = (length=1, charLength) => {
 }
 // calling the function
 genPassword()
+
+// output example: Your random generated password is: Laos^Hn1
